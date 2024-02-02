@@ -1,18 +1,18 @@
-<h1 align="center"><b>Hi , I'm Paul Vega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Obed Vega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <b>About me</b>
 
-- A passionate Self-taught Full Stack Developer
-- Studying Software Engineering at Universidad Politécnica de Durango
-- Learning Web Development by Self
+- A passionate Self-taught Front End Developer & UI/UX Designer.
+- Studying Software Engineering at Universidad Politécnica de Durango.
+- Learning Web Development by Self.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <b>Skills</b>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,py,php,java,js,nodejs,ts,react,nextjs,postgres,css,tailwind,bootstrap,html,ps,ai&perline=6" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,cs,dotnet,css,tailwind,bootstrap,html,ps,ai,figma&perline=6" />
   </a>
 </p>
 
@@ -21,8 +21,8 @@
 ## <b> Let's Connect..!</b>
 <div align='left'>
 
-<a href="https://www.linkedin.com/in/is-paulvega/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/swobedvega/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 </div>
