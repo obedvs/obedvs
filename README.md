@@ -2,9 +2,8 @@
 
 ## <b>About me</b>
 
-- A passionate Self-taught Front End Developer & UI/UX Designer.
-- Studying Software Engineering at Universidad Politécnica de Durango.
-- Learning Web Development by Self.
+- A passionate Software Engineer.
+- Focused on Full Stack Web Development.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
