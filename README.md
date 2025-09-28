@@ -1,6 +1,7 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/swobedvega">Obed Vega<a/>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> <b>Full Stack Developer | Software Engineer 💻</b>
 
 ## About Me 🌌
+
 Full Stack Developer with over 4 years of experience developing web and mobile applications, specializing in JavaScript/TypeScript, React, React Native, Next.js, and Node.js to deliver solutions that optimize performance and enhance user experience.
 
 I am focused on frontend development with React, and backend management with Node.js, applying both in Next.js; connected with MySQL, MongoDB, SQL Server, Firebase Firestore, and PostgreSQL. Additionally, I am skilled in SEO optimization and experienced in implementing agile development practices (Scrum).
@@ -18,5 +19,7 @@ Currently, I am focused on developing personal projects, applying my expertise i
 - <b>Tools:</b> Tailwind CSS, Firebase, Adobe Photoshop, Adobe Illustrator
 
 ## Contact 📫
+
 My portfolio [obedvs.dev](https://obedvs.dev)
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/swobedvega)
